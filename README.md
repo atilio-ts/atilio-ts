@@ -22,8 +22,6 @@ Some of the countries I've been to: Argentina, Brazil, Peru, France, Italy, Spai
 
 - 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ajvg94/](https://www.linkedin.com/in/ajvg94/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ajvg94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajvg94" height="30" width="40" /></a>
