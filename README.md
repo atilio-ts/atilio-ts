@@ -25,8 +25,8 @@ Some of the countries I've been to: Argentina, Brazil, Peru, France, Italy, Spai
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://linkedin.com/in/ajvg94" target="blank"><img align="center" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt="ajvg94" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11348054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11348054" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajvg94" target="blank"><img align="center" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt="ajvg94" height="30" width="40" /></a>
 <a href="https://medium.com/@ajvg94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajvg94" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ajvg94" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="@ajvg94" height="30" width="40" /></a>
 
