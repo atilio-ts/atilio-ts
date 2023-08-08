@@ -13,8 +13,10 @@ My experience includes working as a developer for different remote development t
 I enjoy being challenged by tough problems and I'm always on the lookout for new opportunities. I am highly motivated to keep up with the newest technologies and innovations, ensuring the quality of my projects delivered to customers. 
 
 * 🌍  I'm based in Asuncion, Paraguay
+* 🖥️  See my portfolio at [ajvg94.com](http://ajvg94.portfolio.com)
 
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -40,8 +42,12 @@ I enjoy being challenged by tough problems and I'm always on the lookout for new
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ajvg94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ajvg94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/ajvg94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11348054/ajvg94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/ajvg94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ajvg94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/ajvg94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11348054/ajvg94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.hackerrank.com/ajvg94" target="_blank" rel="noreferrer"><img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ajvg94"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ajvg94&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ajvg94" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajvg94&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
