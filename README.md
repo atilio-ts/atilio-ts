@@ -13,7 +13,7 @@ My experience includes working as a developer for different remote development t
 I enjoy being challenged by tough problems and I'm always on the lookout for new opportunities. I am highly motivated to keep up with the newest technologies and innovations, ensuring the quality of my projects delivered to customers. 
 
 * 🌍  I'm based in Asuncion, Paraguay
-* 🖥️  See my portfolio at [ajvg94.com](http://ajvg94.portfolio.com)
+* 🖥️  See my portfolio at [ajvg94.github.io](https://ajvg94.github.io/)
 
 ### Skills
 
