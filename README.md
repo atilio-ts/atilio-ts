@@ -13,7 +13,7 @@ My experience includes working as a developer for different remote development t
 I enjoy being challenged by tough problems and I'm always on the lookout for new opportunities. I am highly motivated to keep up with the newest technologies and innovations, ensuring the quality of my projects delivered to customers. 
 
 * 🌍  I'm based in Asuncion, Paraguay
-* 🖥️  See my portfolio at [ajvg94.github.io](https://ajvg94.github.io/)
+* 🖥️  See my portfolio at [atilio-ts.github.io](https://atilio-ts.github.io/)
 
 ### Skills
 
@@ -42,8 +42,8 @@ I enjoy being challenged by tough problems and I'm always on the lookout for new
 
 ### Socials
 <div style="background-color: white;">
-<a href="https://www.linkedin.com/in/ajvg94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/ajvg94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11348054/ajvg94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.hackerrank.com/ajvg94" target="_blank" rel="noreferrer"><img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/atilio-ts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/atilio-ts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11348054/atilio-ts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.hackerrank.com/atilio-ts" target="_blank" rel="noreferrer"><img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="32" height="32" /></a></p>
 </div>
 ### My GitHub Stats
 
-<a href="https://github.com/ajvg94" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajvg94&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/atilio-ts" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilio-ts&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
