@@ -8,9 +8,11 @@ Software Engineer
 
 I specialize in developing various types of software such as web applications, desktop software and APIs. I have worked on a variety of projects ranging from small to large scale applications utilizing latest technologies and frameworks. 
 
-My experience includes working as a developer for different remote development teams, both within Latin America and beyond. The main areas that I have expertise in include JavaScript, Node.js, TypeScript, ReactJS and databases, I also have some experience working with python and C# in personal projects. 
+My experience includes working as a developer for different remote development teams, both within Latin America and beyond. The main areas that I have expertise in include JavaScript, Node.js, TypeScript, ReactJS and databases, I also have some experience working with python and C# in personal projects.
 
-I enjoy being challenged by tough problems and I'm always on the lookout for new opportunities. I am highly motivated to keep up with the newest technologies and innovations, ensuring the quality of my projects delivered to customers. 
+I enjoy being challenged by tough problems and I'm always on the lookout for new opportunities. I am highly motivated to keep up with the newest technologies and innovations, ensuring the quality of my projects delivered to customers.
+
+In my free time I like to take some courses to stay up to date with the latest technologies, collect and listen to vinyl lps, go to music concerts and during the lockdowns I also picked game developing as a hobby.
 
 * 🌍  I'm based in Asuncion, Paraguay
 * 🖥️  See my portfolio at [atilio-ts.github.io](https://atilio-ts.github.io/)
@@ -41,9 +43,14 @@ I enjoy being challenged by tough problems and I'm always on the lookout for new
 
 
 ### Socials
+
+
 <div style="background-color: white;">
-<a href="https://www.linkedin.com/in/atilio-ts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/atilio-ts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11348054/atilio-ts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.hackerrank.com/atilio-ts" target="_blank" rel="noreferrer"><img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/atilio-ts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </a> <a href="https://www.stackoverflow.com/users/11348054/atilio-ts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.hackerrank.com/atilio-ts" target="_blank" rel="noreferrer"><img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="32" height="32" /></a> <a href="https://www.udemy.com/user/atilio-villalba/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/U/udemy-logo-5315F166A4-seeklogo.com.png" width="32" height="32" /></a></p>
 </div>
+
+
 ### My GitHub Stats
+
 
 <a href="https://github.com/atilio-ts" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilio-ts&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
