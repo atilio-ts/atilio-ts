@@ -6,13 +6,15 @@ Software Engineer
 
 <img align="right" src="https://media3.giphy.com/media/kudIERso2pFiE/giphy.gif" width="400"/>
 
-I specialize in developing various types of software such as web applications, desktop software and APIs. I have worked on a variety of projects ranging from small to large scale applications utilizing latest technologies and frameworks. 
+I’m a Software Engineer with over 5 years of experience building reliable, scalable systems that solve real-world problems. From financial platforms to CRM integrations and automation tools, I’ve worked across industries helping teams design clean, efficient, and secure applications that actually deliver.
 
-My experience includes working as a developer for different remote development teams, both within Latin America and beyond. The main areas that I have expertise in include JavaScript, Node.js, TypeScript, ReactJS and databases, I also have some experience working with python and C# in personal projects.
+I focus mainly on backend development—JavaScript/TypeScript with Node.js, Java (Spring Boot), C#, and SQL—but I’m also comfortable on the frontend, especially with React and modern UI frameworks. I’ve built microservices for everything from PDF reporting and payment automation to authentication flows using Amazon Cognito and Azure AD. I enjoy working on architecture, improving system performance, and turning complex workflows into simple, maintainable code.
 
-I enjoy being challenged by tough problems and I'm always on the lookout for new opportunities. I am highly motivated to keep up with the newest technologies and innovations, ensuring the quality of my projects delivered to customers.
+In past roles, I’ve led development efforts, collaborated with international teams, and worked directly with stakeholders to shape product direction. I value communication, ownership, and writing code that’s easy to understand and evolve. Whether it’s integrating Kafka or RabbitMQ for async processing, optimizing legacy systems, or building tools from scratch, I always aim for quality and clarity.
 
-In my free time I like to take some courses to stay up to date with the latest technologies, collect and listen to vinyl lps, go to music concerts and during the lockdowns I also picked game developing as a hobby.
+Outside of work, I’m a big fan of music—collecting vinyl, going to concerts—and picked up game dev as a hobby during the lockdowns. I’m also a bit of a travel addict, always looking for my next destination.
+
+If you’re looking for someone who’s technical, adaptable, and thrives in cross-functional teams—let’s connect. I’m always open to interesting opportunities and new challenges.
 
 * 🌍  I'm based in Asuncion, Paraguay
 * 🖥️  See my portfolio at [atilio-ts.github.io](https://atilio-ts.github.io/)
